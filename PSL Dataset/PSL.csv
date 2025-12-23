@@ -218,37 +218,71 @@ Multan Sultans ,Lahore Qalandars ,163,135,2,9,20.0,20.0,Lahore Qalandars,Bowl,23
 Peshawar Zalmi ,Islamabad United ,169,170,5,5,20.0,19.3,Peshawar Zalmi,Bat,24,February,2022,Islamabad United
 Lahore Qalandars ,Islamabad United ,168,162,7,10,20.0,19.4,Lahore Qalandars,Bat,25,February,2022,Lahore Qalandars
 Lahore Qalandars ,Multan Sultans ,180,138,5,10,20.0,19.3,Lahore Qalandars,Bat,27,February,2022,Lahore Qalandars
-Lahore Qalandars ,Multan Sultans ,175,174,6,6,20.0,20.0,Multan Sultans,who chose to field,13,February,2023,Lahore Qalandars
-Peshawar Zalmi ,Karachi Kings ,199,197,5,5,20.0,20.0,Karachi Kings,who chose to field,14,February,2023,Peshawar Zalmi
-Quetta Gladiators ,Multan Sultans ,110,111,10,1,18.5,13.3,Multan Sultans,who chose to field,15,February,2023,Multan Sultans
-Karachi Kings ,Islamabad United ,173,178,7,6,20.0,18.2,Islamabad United,who chose to field,16,February,2023,Islamabad United
-Multan Sultans ,Peshawar Zalmi ,210,154,3,10,20.0,18.5,Peshawar Zalmi,who chose to field,17,February,2023,Multan Sultans
-Quetta Gladiators ,Karachi Kings ,168,162,7,5,20.0,20.0,Karachi Kings,who chose to field,18,February,2023,Quetta Gladiators
-Multan Sultans ,Islamabad United ,190,138,4,10,20.0,17.5,Islamabad United,who chose to field,19,February,2023,Multan Sultans
-Karachi Kings ,Lahore Qalandars ,185,118,5,10,20.0,17.3,Lahore Qalandars,who chose to field,19,February,2023,Karachi Kings
-Quetta Gladiators ,Peshawar Zalmi ,154,157,4,6,20.0,18.3,Peshawar Zalmi,who chose to field,20,February,2023,Peshawar Zalmi
-Lahore Qalandars ,Quetta Gladiators ,198,135,6,8,20.0,20.0,Quetta Gladiators,who chose to field,21,February,2023,Lahore Qalandars
-Multan Sultans ,Karachi Kings ,196,193,2,5,20.0,20.0,Karachi Kings,who chose to field,22,February,2023,Multan Sultans
-Peshawar Zalmi ,Islamabad United ,156,159,8,4,20.0,14.5,Islamabad United,who chose to field,23,February,2023,Islamabad United
-Islamabad United ,Quetta Gladiators ,220,157,6,10,20.0,19.1,Islamabad United,who chose to bat,24,February,2023,Islamabad United
-Karachi Kings ,Multan Sultans ,167,101,3,10,20.0,16.3,Multan Sultans,who chose to field,26,February,2023,Karachi Kings
-Lahore Qalandars ,Peshawar Zalmi ,241,201,3,9,20.0,20.0,Lahore Qalandars,who chose to bat,26,February,2023,Lahore Qalandars
-Lahore Qalandars ,Islamabad United ,200,90,7,10,20.0,13.5,Lahore Qalandars,who chose to bat,27,February,2023,Lahore Qalandars
-Peshawar Zalmi ,Karachi Kings ,197,173,5,8,20.0,20.0,Karachi Kings,who chose to field,1,March,2023,Peshawar Zalmi
-Lahore Qalandars ,Quetta Gladiators ,148,131,10,7,19.2,20.0,Quetta Gladiators,who chose to field,2,March,2023,Lahore Qalandars
-Karachi Kings ,Islamabad United ,201,204,5,4,20.0,19.2,Karachi Kings,who chose to bat,3,March,2023,Islamabad United
-Lahore Qalandars ,Multan Sultans ,180,159,9,7,20.0,20.0,Lahore Qalandars,who chose to bat,4,March,2023,Lahore Qalandars
-Quetta Gladiators ,Islamabad United ,179,183,6,8,20.0,19.3,Islamabad United,who chose to field,5,March,2023,Islamabad United
-Karachi Kings ,Quetta Gladiators ,164,168,6,6,20.0,19.5,Quetta Gladiators,who chose to field,6,March,2023,Quetta Gladiators
-Peshawar Zalmi ,Lahore Qalandars ,207,172,10,10,19.3,19.4,Peshawar Zalmi,who chose to bat,7,March,2023,Peshawar Zalmi
-Multan Sultans ,Islamabad United ,205,209,5,8,20.0,19.5,Islamabad United,who chose to field,7,March,2023,Islamabad United
-Peshawar Zalmi ,Quetta Gladiators ,240,243,2,2,20.0,18.2,Peshawar Zalmi,who chose to bat,8,March,2023,Quetta Gladiators
-Lahore Qalandars ,Islamabad United ,226,107,5,10,20.0,15.1,Lahore Qalandars,who chose to bat,9,March,2023,Lahore Qalandars
-Peshawar Zalmi ,Multan Sultans ,242,244,6,6,20.0,19.1,Peshawar Zalmi,who chose to bat,10,March,2023,Multan Sultans
-Multan Sultans ,Quetta Gladiators ,262,253,3,8,20.0,20.0,Quetta Gladiators,who chose to field,11,March,2023,Multan Sultans
-Peshawar Zalmi ,Islamabad United ,179,166,8,10,20.0,19.4,Islamabad United,who chose to field,12,March,2023,Peshawar Zalmi
-Karachi Kings ,Lahore Qalandars ,196,110,7,10,20.0,18.5,Karachi Kings,who chose to bat,12,March,2023,Karachi Kings
-Multan Sultans ,Lahore Qalandars ,160,76,5,10,20.0,14.3,Multan Sultans,who chose to bat,15,March,2023,Multan Sultans
-Peshawar Zalmi ,Islamabad United ,183,171,8,6,20.0,20.0,Islamabad United,who chose to field,16,March,2023,Peshawar Zalmi
-Peshawar Zalmi ,Lahore Qalandars ,171,176,5,6,20.0,18.5,Peshawar Zalmi,who chose to bat,17,March,2023,Lahore Qalandars
-Lahore Qalandars ,Multan Sultans ,200,199,6,8,20.0,20.0,Lahore Qalandars,who chose to bat,18,March,2023,Lahore Qalandars
+Lahore Qalandars ,Multan Sultans ,175,174,6,6,20.0,20.0,Multan Sultans,Bowl,13,February,2023,Lahore Qalandars
+Peshawar Zalmi ,Karachi Kings ,199,197,5,5,20.0,20.0,Karachi Kings,Bowl,14,February,2023,Peshawar Zalmi
+Quetta Gladiators ,Multan Sultans ,110,111,10,1,18.5,13.3,Multan Sultans,Bowl,15,February,2023,Multan Sultans
+Karachi Kings ,Islamabad United ,173,178,7,6,20.0,18.2,Islamabad United,Bowl,16,February,2023,Islamabad United
+Multan Sultans ,Peshawar Zalmi ,210,154,3,10,20.0,18.5,Peshawar Zalmi,Bowl,17,February,2023,Multan Sultans
+Quetta Gladiators ,Karachi Kings ,168,162,7,5,20.0,20.0,Karachi Kings,Bowl,18,February,2023,Quetta Gladiators
+Multan Sultans ,Islamabad United ,190,138,4,10,20.0,17.5,Islamabad United,Bowl,19,February,2023,Multan Sultans
+Karachi Kings ,Lahore Qalandars ,185,118,5,10,20.0,17.3,Lahore Qalandars,Bowl,19,February,2023,Karachi Kings
+Quetta Gladiators ,Peshawar Zalmi ,154,157,4,6,20.0,18.3,Peshawar Zalmi,Bowl,20,February,2023,Peshawar Zalmi
+Lahore Qalandars ,Quetta Gladiators ,198,135,6,8,20.0,20.0,Quetta Gladiators,Bowl,21,February,2023,Lahore Qalandars
+Multan Sultans ,Karachi Kings ,196,193,2,5,20.0,20.0,Karachi Kings,Bowl,22,February,2023,Multan Sultans
+Peshawar Zalmi ,Islamabad United ,156,159,8,4,20.0,14.5,Islamabad United,Bowl,23,February,2023,Islamabad United
+Islamabad United ,Quetta Gladiators ,220,157,6,10,20.0,19.1,Islamabad United,Bat,24,February,2023,Islamabad United
+Karachi Kings ,Multan Sultans ,167,101,3,10,20.0,16.3,Multan Sultans,Bowl,26,February,2023,Karachi Kings
+Lahore Qalandars ,Peshawar Zalmi ,241,201,3,9,20.0,20.0,Lahore Qalandars,Bat,26,February,2023,Lahore Qalandars
+Lahore Qalandars ,Islamabad United ,200,90,7,10,20.0,13.5,Lahore Qalandars,Bat,27,February,2023,Lahore Qalandars
+Peshawar Zalmi ,Karachi Kings ,197,173,5,8,20.0,20.0,Karachi Kings,Bowl,1,March,2023,Peshawar Zalmi
+Lahore Qalandars ,Quetta Gladiators ,148,131,10,7,19.2,20.0,Quetta Gladiators,Bowl,2,March,2023,Lahore Qalandars
+Karachi Kings ,Islamabad United ,201,204,5,4,20.0,19.2,Karachi Kings,Bat,3,March,2023,Islamabad United
+Lahore Qalandars ,Multan Sultans ,180,159,9,7,20.0,20.0,Lahore Qalandars,Bat,4,March,2023,Lahore Qalandars
+Quetta Gladiators ,Islamabad United ,179,183,6,8,20.0,19.3,Islamabad United,Bowl,5,March,2023,Islamabad United
+Karachi Kings ,Quetta Gladiators ,164,168,6,6,20.0,19.5,Quetta Gladiators,Bowl,6,March,2023,Quetta Gladiators
+Peshawar Zalmi ,Lahore Qalandars ,207,172,10,10,19.3,19.4,Peshawar Zalmi,Bat,7,March,2023,Peshawar Zalmi
+Multan Sultans ,Islamabad United ,205,209,5,8,20.0,19.5,Islamabad United,Bowl,7,March,2023,Islamabad United
+Peshawar Zalmi ,Quetta Gladiators ,240,243,2,2,20.0,18.2,Peshawar Zalmi,Bat,8,March,2023,Quetta Gladiators
+Lahore Qalandars ,Islamabad United ,226,107,5,10,20.0,15.1,Lahore Qalandars,Bat,9,March,2023,Lahore Qalandars
+Peshawar Zalmi ,Multan Sultans ,242,244,6,6,20.0,19.1,Peshawar Zalmi,Bat,10,March,2023,Multan Sultans
+Multan Sultans ,Quetta Gladiators ,262,253,3,8,20.0,20.0,Quetta Gladiators,Bowl,11,March,2023,Multan Sultans
+Peshawar Zalmi ,Islamabad United ,179,166,8,10,20.0,19.4,Islamabad United,Bowl,12,March,2023,Peshawar Zalmi
+Karachi Kings ,Lahore Qalandars ,196,110,7,10,20.0,18.5,Karachi Kings,Bat,12,March,2023,Karachi Kings
+Multan Sultans ,Lahore Qalandars ,160,76,5,10,20.0,14.3,Multan Sultans,Bat,15,March,2023,Multan Sultans
+Peshawar Zalmi ,Islamabad United ,183,171,8,6,20.0,20.0,Islamabad United,Bowl,16,March,2023,Peshawar Zalmi
+Peshawar Zalmi ,Lahore Qalandars ,171,176,5,6,20.0,18.5,Peshawar Zalmi,Bat,17,March,2023,Lahore Qalandars
+Lahore Qalandars ,Multan Sultans ,200,199,6,8,20.0,20.0,Lahore Qalandars,Bat,18,March,2023,Lahore Qalandars
+Lahore Qalandars ,Islamabad United ,195,200,5,2,20.0,18.2,Islamabad United,Bowl,17,February,2024,Islamabad United
+Quetta Gladiators ,Peshawar Zalmi ,206,190,5,6,20.0,20.0,Peshawar Zalmi,Bowl,18,February,2024,Quetta Gladiators
+Multan Sultans ,Karachi Kings ,185,130,2,8,20.0,20.0,Karachi Kings,Bowl,18,February,2024,Multan Sultans
+Lahore Qalandars ,Quetta Gladiators ,187,188,7,5,20.0,19.1,Lahore Qalandars,Bat,19,February,2024,Quetta Gladiators
+Islamabad United ,Multan Sultans ,144,145,10,5,20.0,19.5,Multan Sultans,Bowl,20,February,2024,Multan Sultans
+Peshawar Zalmi ,Karachi Kings ,154,157,10,3,19.5,16.5,Karachi Kings,Bowl,21,February,2024,Karachi Kings
+Lahore Qalandars ,Multan Sultans ,166,170,5,5,20.0,19.0,Lahore Qalandars,Bat,21,February,2024,Multan Sultans
+Islamabad United ,Quetta Gladiators ,138,139,9,7,20.0,18.2,Quetta Gladiators,Bowl,22,February,2024,Quetta Gladiators
+Peshawar Zalmi ,Multan Sultans ,179,174,8,10,20.0,20.0,Peshawar Zalmi,Bat,23,February,2024,Peshawar Zalmi
+Lahore Qalandars ,Karachi Kings ,175,176,6,8,20.0,20.0,Karachi Kings,Bowl,24,February,2024,Karachi Kings
+Multan Sultans ,Quetta Gladiators ,180,167,4,9,20.0,20.0,Quetta Gladiators,Bowl,25,February,2024,Multan Sultans
+Peshawar Zalmi ,Lahore Qalandars ,211,203,4,6,20.0,20.0,Lahore Qalandars,Bowl,25,February,2024,Peshawar Zalmi
+Peshawar Zalmi ,Islamabad United ,201,193,5,9,20.0,20.0,Islamabad United,Bowl,26,February,2024,Peshawar Zalmi
+Multan Sultans ,Lahore Qalandars ,214,154,4,10,20.0,17.0,Multan Sultans,Bat,27,February,2024,Multan Sultans
+Karachi Kings ,Islamabad United ,165,169,5,3,20.0,18.3,Islamabad United,Bowl,28,February,2024,Islamabad United
+Karachi Kings ,Quetta Gladiators ,165,169,8,5,20.0,20.0,Quetta Gladiators,Bowl,29,February,2024,Quetta Gladiators
+Innings,,0,,0,,0.0,,,,2,March,2024,""
+Innings,,0,,0,,0.0,,,,2,March,2024,""
+Multan Sultans ,Karachi Kings ,189,169,3,7,20.0,20.0,Multan Sultans,Bat,3,March,2024,Multan Sultans
+Islamabad United ,Peshawar Zalmi ,196,167,4,9,20.0,20.0,Peshawar Zalmi,Bowl,4,March,2024,Islamabad United
+Peshawar Zalmi ,Multan Sultans ,204,200,5,5,20.0,20.0,Peshawar Zalmi,Bat,5,March,2024,Peshawar Zalmi
+Quetta Gladiators ,Karachi Kings ,118,121,10,3,19.1,15.3,Karachi Kings,Bowl,6,March,2024,Karachi Kings
+Lahore Qalandars ,Islamabad United ,162,145,7,10,20.0,18.5,Islamabad United,Bowl,6,March,2024,Lahore Qalandars
+Karachi Kings ,Islamabad United ,150,151,7,5,20.0,18.4,Islamabad United,Bowl,7,March,2024,Islamabad United
+Peshawar Zalmi ,Quetta Gladiators ,196,120,8,10,20.0,17.5,Quetta Gladiators,Bowl,8,March,2024,Peshawar Zalmi
+Lahore Qalandars ,Karachi Kings ,177,179,5,7,20.0,20.0,Karachi Kings,Bowl,9,March,2024,Karachi Kings
+Multan Sultans ,Islamabad United ,228,232,4,7,20.0,20.0,Islamabad United,Bowl,10,March,2024,Islamabad United
+Lahore Qalandars ,Quetta Gladiators ,166,169,4,4,20.0,20.0,Lahore Qalandars,Bat,10,March,2024,Quetta Gladiators
+Peshawar Zalmi ,Karachi Kings ,147,145,6,5,20.0,20.0,Peshawar Zalmi,Bat,11,March,2024,Peshawar Zalmi
+Multan Sultans ,Quetta Gladiators ,185,106,4,10,20.0,15.5,Quetta Gladiators,Bowl,12,March,2024,Multan Sultans
+Peshawar Zalmi ,Multan Sultans ,146,147,7,3,20.0,18.3,Peshawar Zalmi,Bat,14,March,2024,Multan Sultans
+Islamabad United ,Quetta Gladiators ,174,135,9,10,20.0,18.4,Islamabad United,Bat,15,March,2024,Islamabad United
+Peshawar Zalmi ,Islamabad United ,185,189,5,5,20.0,19.0,Islamabad United,Bowl,16,March,2024,Islamabad United
+Multan Sultans ,Islamabad United ,159,163,9,8,20.0,20.0,Multan Sultans,Bat,18,March,2024,Islamabad United
